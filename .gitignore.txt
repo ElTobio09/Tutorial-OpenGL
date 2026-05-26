@@ -1,9 +1,7 @@
 .vs/
-x64/
+*.vcxproj.user
+*.log
+ipch/
 Debug/
 Release/
-build/
-
-*.exe
-*.ilk
-*.pdb
+x64/
