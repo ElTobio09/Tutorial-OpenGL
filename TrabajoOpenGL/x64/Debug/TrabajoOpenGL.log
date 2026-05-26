@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\dpipe\OneDrive\Documentos\Archivos Importantes\Universidad\5 SEMESTRE\Computacion Grafica\Tutorial OpenGL\TrabajoOpenGL\Main.cpp(36,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dpipe\OneDrive\Documentos\Archivos Importantes\Universidad\5 SEMESTRE\Computacion Grafica\Tutorial OpenGL\TrabajoOpenGL\Main.cpp(37,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dpipe\OneDrive\Documentos\Archivos Importantes\Universidad\5 SEMESTRE\Computacion Grafica\Tutorial OpenGL\TrabajoOpenGL\Main.cpp(341,10): error C2065: 'lineVertexShader': undeclared identifier
+C:\Users\dpipe\OneDrive\Documentos\Archivos Importantes\Universidad\5 SEMESTRE\Computacion Grafica\Tutorial OpenGL\TrabajoOpenGL\Main.cpp(353,10): error C2065: 'lineFragmentShader': undeclared identifier
+C:\Users\dpipe\OneDrive\Documentos\Archivos Importantes\Universidad\5 SEMESTRE\Computacion Grafica\Tutorial OpenGL\TrabajoOpenGL\Main.cpp(678,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dpipe\OneDrive\Documentos\Archivos Importantes\Universidad\5 SEMESTRE\Computacion Grafica\Tutorial OpenGL\TrabajoOpenGL\Main.cpp(772,25): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\dpipe\OneDrive\Documentos\Archivos Importantes\Universidad\5 SEMESTRE\Computacion Grafica\Tutorial OpenGL\TrabajoOpenGL\Main.cpp(805,23): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
